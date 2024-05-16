@@ -1,6 +1,6 @@
-# Simple Login Page
+# Responsive Contact Section
 
-<h4>Fully responsive login page  👌</h4>  
+<h4>Responsive Contact Section using Tailwind CSS. 💡  👌</h4>  
 
 [Demo](https://miladjoodi.github.io/Responsive_Contact_Section_Tailwind/).\
 Thank you sincerely. 🙏
